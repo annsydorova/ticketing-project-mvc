@@ -1,7 +1,5 @@
 package com.cydeo.enums;
 
-import com.fasterxml.jackson.annotation.JsonValue;
-
 public enum Gender {
 
     MALE("Male"),
